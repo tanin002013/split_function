@@ -1,6 +1,6 @@
-This is new file. I am the owner of this file.
-I add one more line. 
-This is fimanl line.
+This is a new file. I am the owner of this file.
+I added one more line. 
+This is the final line.
 I write one more line.
-Sometimes new for test perpose.
-Test another commant.
+Sometimes new for test purposes.
+Test another comment.
